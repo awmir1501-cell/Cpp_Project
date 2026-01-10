@@ -26,7 +26,7 @@ int main()
     cout<<"=========================================\n";
     cout<<"Enter your Full Name  ";
     getline(cin,name);
-    ifstream file("filecheck.txt");
+    ifstream file("questions.txt");
     while(getline(file,line))
     {
         text[i]=line;
@@ -34,7 +34,7 @@ int main()
     }
     file.close();
     string line2;
-    ifstream file2("fileoptions.txt");
+    ifstream file2("options.txt");
     int k=0;
     while(getline(file2,line2))
     {
@@ -42,7 +42,7 @@ int main()
         k++;
     }
     file2.close();
-    ifstream file3("fileAns.txt");
+    ifstream file3("ans.txt");
     for(int i=0;i<100;i++)
     {
         file3>>text3[i];

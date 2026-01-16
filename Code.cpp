@@ -5,7 +5,6 @@
 #include <windows.h>
 #include <ctime>
 using namespace std;
-//Score Board to store score in score board file
 int scoreboard(int n,string nam)
 {
     ofstream board("scoreboard.txt",ios::app);
@@ -21,12 +20,12 @@ int main()
     string line;
     int i=0;
     string name;
-    cout<<"=========================================\n";
+    cout<<"================================================\n";
     cout<<"\tWelcome to general knowledge test\n";
-    cout<<"=========================================\n";
+    cout<<"================================================\n";
     cout<<"Enter your Full Name  ";
     getline(cin,name);
-    ifstream file("questions.txt");
+    ifstream file("filecheck.txt");
     while(getline(file,line))
     {
         text[i]=line;
@@ -34,7 +33,7 @@ int main()
     }
     file.close();
     string line2;
-    ifstream file2("options.txt");
+    ifstream file2("fileoptions.txt");
     int k=0;
     while(getline(file2,line2))
     {
@@ -42,7 +41,7 @@ int main()
         k++;
     }
     file2.close();
-    ifstream file3("ans.txt");
+    ifstream file3("fileAns.txt");
     for(int i=0;i<100;i++)
     {
         file3>>text3[i];
@@ -89,6 +88,7 @@ int main()
             {
                 continue;
             }
+
             }
         }
     }

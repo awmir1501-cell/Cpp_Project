@@ -1,0 +1,100 @@
+Q#1: What is the capital of Pakistan?
+Q#2: What is the National Animal of Pakistan?
+Q#3: What is the National Flower of Pakistan?
+Q#4: What is the highest peak of Pakistan?
+Q#5: What is the National Game of Pakistan?
+Q#6: What is the currency of Pakistan?
+Q#7: Which continent is Pakistan in?
+Q#8: How many provinces are there in Pakistan?
+Q#9: What is the national language of Pakistan?
+Q#10: Which ocean lies to the south of Pakistan?
+Q#11: Who is the founder of Pakistan?
+Q#12: When did Pakistan come into being?
+Q#13: What is the largest city of Pakistan by population?
+Q#14: What is the national sport of Pakistan?
+Q#15: What is the longest river in Pakistan?
+Q#16: What is the national bird of Pakistan?
+Q#17: Which city is called the City of Lights?
+Q#18: Which desert is located in Pakistan?
+Q#19: Which mountain range contains K2?
+Q#20: What is the national anthem language of Pakistan?
+Q#21: What is the capital of China?
+Q#22: Which planet is known as the Red Planet?
+Q#23: How many days are there in a leap year?
+Q#24: What gas do plants absorb from air?
+Q#25: Who invented the telephone?
+Q#26: What is the boiling point of water?
+Q#27: What is the largest ocean on Earth?
+Q#28: What is the smallest prime number?
+Q#29: What is the hardest natural substance?
+Q#30: Which organ pumps blood in the body?
+Q#31: Who wrote the national anthem of Pakistan?
+Q#32: Which country has the largest population?
+Q#33: What is the capital of Saudi Arabia?
+Q#34: What is the chemical symbol of Oxygen?
+Q#35: How many continents are there?
+Q#36: What is the largest planet in our solar system?
+Q#37: Which metal is liquid at room temperature?
+Q#38: What is the square root of 64?
+Q#39: What is the fastest land animal?
+Q#40: Which country is known as the Land of the Rising Sun?
+Q#41: What is the capital of Turkey?
+Q#42: Who was the first man on the moon?
+Q#43: Which vitamin is obtained from sunlight?
+Q#44: What is the longest bone in the human body?
+Q#45: What is the main source of energy for Earth?
+Q#46: Which blood group is universal donor?
+Q#47: Which gas is essential for breathing?
+Q#48: What is the freezing point of water?
+Q#49: Which instrument is used to measure temperature?
+Q#50: What is the largest mammal?
+Q#51: What is the capital of France?
+Q#52: Which country gifted Statue of Liberty to USA?
+Q#53: What is the national tree of Pakistan?
+Q#54: Which city is the capital of Sindh?
+Q#55: Which is the smallest continent?
+Q#56: Who is known as the Father of Computers?
+Q#57: Which gas is used in balloons?
+Q#58: What is H2O commonly known as?
+Q#59: Which planet is closest to the Sun?
+Q#60: How many teeth does an adult human have?
+Q#61: What is the capital of India?
+Q#62: Which is the largest desert in the world?
+Q#63: What is the chemical symbol of Gold?
+Q#64: Which country is known as the Land of Pharaohs?
+Q#65: How many hours are there in a day?
+Q#66: Which organ is responsible for thinking?
+Q#67: What is the national drink of Pakistan?
+Q#68: What is the capital of Afghanistan?
+Q#69: Which month has 28 days?
+Q#70: Which is the tallest animal?
+Q#71: Who discovered gravity?
+Q#72: What is the main language of China?
+Q#73: Which city is capital of KPK?
+Q#74: What is the national mosque of Pakistan?
+Q#75: What is the speed unit of vehicles?
+Q#76: Which is the largest bone in human body?
+Q#77: What is the chemical symbol of Iron?
+Q#78: Which country is known as the Land of White Elephant?
+Q#79: Which planet has rings?
+Q#80: How many seconds are there in one minute?
+Q#81: What is the capital of Iran?
+Q#82: Which animal is known as Ship of the Desert?
+Q#83: What is the largest continent?
+Q#84: Which organ helps in breathing?
+Q#85: What is the national fruit of Pakistan?
+Q#86: Which star is nearest to Earth?
+Q#87: What is the full form of CPU?
+Q#88: Which is the fastest bird?
+Q#89: What is the capital of UK?
+Q#90: What is the national poet of Pakistan?
+Q#91: Which planet is known as Blue Planet?
+Q#92: What is the chemical symbol of Carbon?
+Q#93: Which country is famous for pyramids?
+Q#94: How many colors are in a rainbow?
+Q#95: What is the capital of Japan?
+Q#96: Which sense organ is used to see?
+Q#97: What is the national dress of Pakistan?
+Q#98: Which metal is used to make electric wires?
+Q#99: What is the largest lake in the world?
+Q#100: What is the national flag color of Pakistan?

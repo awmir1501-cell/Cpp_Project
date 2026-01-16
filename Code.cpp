@@ -23,7 +23,7 @@ int main()
     cout<<"================================================\n";
     cout<<"\tWelcome to general knowledge test\n";
     cout<<"================================================\n";
-    cout<<"Enter your Full Name  ";
+    cout<<"Enter your Full Name   ";
     getline(cin,name);
     ifstream file("filecheck.txt");
     while(getline(file,line))
